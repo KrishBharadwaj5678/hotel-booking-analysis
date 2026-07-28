@@ -16,7 +16,7 @@
 <h1 align="center"><img src="https://github.com/KrishBharadwaj5678/hotel-booking-analysis/raw/main/assets/readme/hotel.webp" width="40"/> Hotel Booking Analysis </h1>
 
 <p align="center">
-  The project demonstrates the end-to-end data analysis process, from cleaning raw data to creating summaries and interactive visualizations that help identify booking patterns and business insights.
+  This project demonstrates an end-to-end Excel data analytics process, transforming raw hotel booking data into structured insights through cleaning, analysis, and interactive reporting.
 </p>
 
 ![Dashboard](https://github.com/KrishBharadwaj5678/hotel-booking-analysis/raw/main/demos/dashboard.png)
