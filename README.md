@@ -1,6 +1,26 @@
-# 🏨 Hotel Booking Analysis 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/hotel-booking-analysis.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/hotel-booking-analysis?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/hotel-booking-analysis?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/hotel-booking-analysis?style=for-the-badge&color=blue" />
+</p>
 
-The project demonstrates the end-to-end data analysis process, from cleaning raw data to creating summaries and interactive visualizations that help identify booking patterns and business insights.
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
+
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/hotel-booking-analysis/raw/main/assets/readme/hotel.webp" width="40"/> Hotel Booking Analysis </h1>
+
+<p align="center">
+  The project demonstrates the end-to-end data analysis process, from cleaning raw data to creating summaries and interactive visualizations that help identify booking patterns and business insights.
+</p>
+
+![Dashboard](https://github.com/KrishBharadwaj5678/hotel-booking-analysis/raw/main/demos/dashboard.png)
+![PivotTable](https://github.com/KrishBharadwaj5678/hotel-booking-analysis/raw/main/demos/pivotTable.png)
 
 <img src="https://github.com/KrishBharadwaj5678/hotel-booking-analysis/raw/main/assets/readme/divider.gif" width="100%"/>
 
